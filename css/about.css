@@ -1,0 +1,25 @@
+.bg-picture{
+    background-image:url(../pic/head2-11.jpg);
+    background-size:cover; 
+    padding: 0;
+}
+
+.container{
+    padding-top: 100px;
+    padding-bottom: 180px;
+} 
+
+.display-4{
+    margin-top: 80px;
+} 
+
+body{
+    background:rgb(240, 195, 143);
+}
+
+.bg-row{
+    background-image:url(../pic/about1.jpg);
+    background-size:cover;
+}
+
+
